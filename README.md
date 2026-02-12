@@ -24,13 +24,11 @@ I specialize in **Detection Engineering** and **Proactive Threat Hunting**. My f
 A full-scale Blue Team environment built to emulate real-world attack chains and engineer detection logic.
 
 * **Simulated:** Credential Access, Lateral Movement (Pass-the-Hash), and Persistence.
-* **Tech:** Active Directory, Sysmon, ELK/Sentinel, and Kali Linux.
+* **Tech:** Active Directory, Sysmon, Splunk, and Kali Linux.
 * **Outcome:** 15+ custom behavioral rules mapped to **MITRE ATT&CK** with full incident playbooks.
-* **[View Repository](https://www.google.com/search?q=%23)** https://www.google.com/search?q=%23https://www.google.com/search?q=%23https://www.google.com/search?q=%23https://www.google.com/search?q=%23 **🛡️ Detection Engineering Framework**
 A structured repository of detection rules and tuning strategies designed for enterprise scale.
 * **Includes:** Sigma/YARA rules, coverage gap analysis, and automated log parsing scripts.
 * **Focus:** Reducing alert fatigue by shifting from IOC-based to Behavioral-based detection.
-* **[View Repository](https://www.google.com/search?q=%23)** ---
 
 ### 🧰 Technical Arsenal
 
