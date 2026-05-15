@@ -1,43 +1,65 @@
-# 🛡️ Paschal Emechebe
+#  Paschal Emechebe
 
-### SOC Analyst → AI Security Engineer
+**Security Engineer | SOC Automation Engineer | Detection Engineer | Adversary Simulation**
 
-I am a cybersecurity professional specializing in Security Operations (SOC), with a growing focus on building AI-powered solutions for modern cyber defense.
-
----
-
-## 🔍 What I Do
-
-* Monitor, analyze, and respond to security events using SIEM platforms
-* Develop AI-driven agents for threat detection and web application security testing
-* Design and simulate real-world attack scenarios in controlled lab environments
+I am a cybersecurity Engineer focused on building modern security systems for threat detection, automation, and adversary simulation. My work sits at the intersection of Security Operations, Detection Engineering, and AI-driven security automation.
 
 ---
 
-## 🛠️ Technical Skills
+##  What I Do
 
-* **SIEM & Monitoring:** Wazuh, Splunk
-* **Programming:** Python, Bash
-* **Security:** Incident Response, Threat Detection, Log Analysis
-* **AI & Automation:** LLM-based agents, security workflow automation
-
----
-
-## 🚀 Featured Projects
-
-* **🤖 AI SOC Analyst Agent**
-  Automated log analysis and an intelligent threat detection system
-
-* **🕵️ AI Web Pentesting Agent**
-  Identifies vulnerabilities such as XSS and SQL Injection with automated reporting
-
-* **☁️ Cloud-Based SOC Lab**
-  Wazuh deployment on AWS with attack simulation using Kali Linux and Windows endpoints
+* Design and implement SOC automation workflows for faster threat detection and response
+* Build detection systems for identifying malicious behavior across endpoints and logs
+* Develop adversary simulation environments for testing defensive security controls
+* Create AI-assisted security tools for log analysis, alert triage, and security decision-making
+* Work with real-world security telemetry from endpoints, cloud systems, and SIEM platforms
 
 ---
 
-## 📬 Contact
+##  Technical Skills
 
-* **LinkedIn:** linkedin.com/in/paschal-emechebe
-* **Email:** [pasckene@gmail.com](mailto:pasckene@gmail.com)
-* **Portfolio:** 
+**Security Engineering & SOC**
+
+* Security Operations (SOC)
+* Detection Engineering
+* Incident Response
+* Threat Hunting
+* Log Analysis & Correlation
+
+**Security Tools & Platforms**
+
+* Wazuh
+* Splunk
+* SIEM & log pipeline design
+* Endpoint telemetry systems
+
+**Programming & Automation**
+
+* Python
+* Bash
+* SOC automation scripting
+* Security workflow engineering
+
+**Advanced Security Focus**
+
+* Adversary simulation
+* Attack surface testing in lab environments
+* AI-driven security agents
+* Detection rule development
+
+---
+
+##  Professional Focus
+
+* SOC automation engineering and workflow optimization
+* Detection engineering for real-time threat identification
+* Building AI-powered security systems for modern SOC environments
+* Simulated adversary environments for testing defensive resilience
+* Designing scalable telemetry and security data pipelines
+
+---
+
+##  Contact
+
+* LinkedIn: linkedin.com/in/paschal-emechebe
+* Email: [pasckene@gmail.com](mailto:pasckene@gmail.com)
