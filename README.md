@@ -1,65 +1,108 @@
-#  Paschal Emechebe
+# Hi, I'm Paschal
 
-**Security Engineer | SOC Automation Engineer | Detection Engineer | Adversary Simulation**
+### Security Engineer | Detection Engineering | SOC Automation | AI Security
 
-I am a cybersecurity Engineer focused on building modern security systems for threat detection, automation, and adversary simulation. My work sits at the intersection of Security Operations, Detection Engineering, and AI-driven security automation.
+I build security systems that **detect, investigate, automate, and respond to threats.**
+
+My focus is on:
+
+* 🛡️ Security Operations
+* 🎯 Detection Engineering
+* 🔎 Threat Hunting
+* ⚔️ Adversary Simulation
+* 🤖 SOC Automation
+* 🧠 AI Security
+* ☁️ Cloud Security
+* 🦀 Security Engineering
 
 ---
 
-##  What I Do
+## Featured Projects
 
-* Design and implement SOC automation workflows for faster threat detection and response
-* Build detection systems for identifying malicious behavior across endpoints and logs
-* Develop adversary simulation environments for testing defensive security controls
-* Create AI-assisted security tools for log analysis, alert triage, and security decision-making
-* Work with real-world security telemetry from endpoints, cloud systems, and SIEM platforms
+### RedShield AI SOC Platform
+
+AI-powered security operations platform designed to ingest security telemetry, prioritize alerts, map activity to MITRE ATT&CK, and assist analysts with investigation and response.
+
+**Stack:** Python · FastAPI · React · Supabase · MITRE ATT&CK · WebSockets
+
+→ [View Project]
 
 ---
 
-##  Technical Skills
+### Detection Engineering Lab
 
-**Security Engineering & SOC**
+A practical detection-engineering environment built around Windows, Linux, Active Directory and attacker simulations.
 
-* Security Operations (SOC)
+Includes:
+
+* Windows telemetry
+* Linux telemetry
+* MITRE ATT&CK techniques
+* Detection logic
+* Threat hunting
+* Attack simulation
+* Investigation workflows
+
+**Tools:** Wazuh · PowerShell · Sysmon · Python · KQL · SPL
+
+→ [View Project]
+
+---
+
+### Windows Attack Simulation Lab
+
+A controlled lab demonstrating attacker behavior from Kali against Windows and Active Directory infrastructure.
+
+Each scenario documents:
+
+**Attack → Telemetry → Detection → Investigation → MITRE ATT&CK → Response**
+
+→ [View Project]
+
+---
+
+## Technologies
+
+**Security**
+
+MITRE ATT&CK · Wazuh · Sysmon · Windows Event Logs · Suricata · osquery · Wireshark
+
+**Detection & SIEM**
+
+KQL · SPL · Sigma · Python · PowerShell
+
+**Engineering**
+
+Python · Rust · C · FastAPI · React · Linux
+
+**Cloud**
+
+AWS · Azure · IAM · EC2 · Cloud Security
+
+---
+
+## 📚 Currently Learning
+
 * Detection Engineering
-* Incident Response
 * Threat Hunting
-* Log Analysis & Correlation
-
-**Security Tools & Platforms**
-
-* Wazuh
-* Splunk
-* SIEM & log pipeline design
-* Endpoint telemetry systems
-
-**Programming & Automation**
-
-* Python
-* Bash
-* SOC automation scripting
-* Security workflow engineering
-
-**Advanced Security Focus**
-
-* Adversary simulation
-* Attack surface testing in lab environments
-* AI-driven security agents
-* Detection rule development
+* Windows Internals
+* Active Directory Security
+* Adversary Simulation
+* AI Security
+* Rust Systems Programming
 
 ---
 
-##  Professional Focus
+## Career Focus
 
-* SOC automation engineering and workflow optimization
-* Detection engineering for real-time threat identification
-* Building AI-powered security systems for modern SOC environments
-* Simulated adversary environments for testing defensive resilience
-* Designing scalable telemetry and security data pipelines
+Security Engineering
+Detection Engineering
+SOC Automation
+AI Security
 
 ---
 
-##  Contact
+## 📫 Connect
 
 * LinkedIn: linkedin.com/in/paschal-emechebe
 * Email: [pasckene@gmail.com](mailto:pasckene@gmail.com)
