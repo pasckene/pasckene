@@ -1,6 +1,6 @@
 # Hi, I'm Paschal
 
-### Security Engineer | Detection Engineering | SOC Automation | AI Security
+### [Security Engineer] | [Detection Engineering] | [SOC Automation] | [AI Security]
 
 I build security systems that **detect, investigate, automate, and respond to threats.**
 
