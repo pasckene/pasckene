@@ -23,7 +23,7 @@ My focus is on:
 
 AI-powered security operations platform designed to ingest security telemetry, prioritize alerts, map activity to MITRE ATT&CK, and assist analysts with investigation and response.
 
-**Stack:** Python · FastAPI · React · Supabase · MITRE ATT&CK · WebSockets
+**Stack:** Python · FastAPI · React  · MITRE ATT&CK ·
 
 → **[View Project](https://github.com/pasckene)**
 
@@ -43,7 +43,7 @@ Includes:
 * Attack simulation
 * Investigation workflows
 
-**Tools:** Wazuh · PowerShell · Sysmon · Python · KQL · SPL
+**Tools:** Wazuh · PowerShell · Sysmon · Python · SPL
 
 → **[View Project](https://github.com/pasckene)**
 
@@ -65,7 +65,7 @@ Each scenario documents:
 
 ### Security
 
-[MITRE ATT&CK](https://attack.mitre.org/) · [Wazuh](https://wazuh.com/) · [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) · Windows Event Logs · [Suricata](https://suricata.io/) · [osquery](https://www.osquery.io/) · [Wireshark](https://www.wireshark.org/)
+[MITRE ATT&CK](https://attack.mitre.org/) · [Wazuh](https://wazuh.com/) · [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) · Windows Event Logs · [Suricata](https://suricata.io/) · [Wireshark](https://www.wireshark.org/)
 
 ### Detection & SIEM
 
@@ -77,7 +77,7 @@ Each scenario documents:
 
 ### Cloud
 
-[AWS](https://aws.amazon.com/) · [Azure](https://azure.microsoft.com/) · IAM · EC2 · Cloud Security
+[AWS](https://aws.amazon.com/) · IAM · EC2 · Cloud Security
 
 ---
 
