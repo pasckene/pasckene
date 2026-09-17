@@ -10,7 +10,7 @@ My focus is on:
 * 🎯 [Detection Engineering](#detection-engineering)
 * 🔎 [Threat Hunting](#threat-hunting)
 * 🤖 [SOC Automation](#soc-automation)
-* 🧠 [AI Security](#ai-security)
+* 🧠 [AI Security Engineering](#ai-security)
 ---
 
 ## Featured Projects
@@ -21,7 +21,7 @@ AI-powered security operations platform designed to ingest security telemetry, p
 
 **Stack:** Python · FastAPI · React  · MITRE ATT&CK ·
 
-→ **[View Project](https://github.com/pasckene)**
+→ **[View Project](https://github.com/pasckene/redshield)**
 
 ---
 
@@ -41,7 +41,7 @@ Includes:
 
 **Tools:** Wazuh · PowerShell · Sysmon · Python · SPL
 
-→ **[View Project](https://github.com/pasckene)**
+→ **[View Project](https://github.com/pasckene/Multi-Stage-Cyber-Attack-Detection-Using-Wazuh-SIEM-and-Sysmon)**
 
 ---
 
@@ -61,7 +61,7 @@ Each scenario documents:
 
 ### Security
 
-[MITRE ATT&CK](https://attack.mitre.org/) · [Wazuh](https://wazuh.com/) · [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) · Windows Event Logs · [Suricata](https://suricata.io/) · [Wireshark](https://www.wireshark.org/)
+[Wireshark](https://www.wireshark.org/) . [Wazuh](https://wazuh.com/) · [Suricata](https://suricata.io/) ·  [Splunk](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/WhatsInThisManual)  · [MITRE ATT&CK](https://attack.mitre.org/)
 
 ### Detection & SIEM
 
