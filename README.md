@@ -6,15 +6,11 @@ I build security systems that **detect, investigate, automate, and respond to th
 
 My focus is on:
 
-* 🛡️ [Security Operations](#security-operations)
+* 🦀 [Security Engineering](#security-engineering)
 * 🎯 [Detection Engineering](#detection-engineering)
 * 🔎 [Threat Hunting](#threat-hunting)
-* ⚔️ [Adversary Simulation](#adversary-simulation)
 * 🤖 [SOC Automation](#soc-automation)
 * 🧠 [AI Security](#ai-security)
-* ☁️ [Cloud Security](#cloud-security)
-* 🦀 [Security Engineering](#security-engineering)
-
 ---
 
 ## Featured Projects
@@ -69,11 +65,11 @@ Each scenario documents:
 
 ### Detection & SIEM
 
-[KQL](https://learn.microsoft.com/en-us/kusto/query/) · [SPL](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/WhatsInThisManual) · [Sigma](https://sigmahq.io/) · [Python](https://www.python.org/) · [PowerShell](https://learn.microsoft.com/en-us/powershell/)
+[SPL](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/WhatsInThisManual) · [Sigma](https://sigmahq.io/) · [Python](https://www.python.org/) · [PowerShell](https://learn.microsoft.com/en-us/powershell/)
 
 ### Engineering
 
-[Python](https://www.python.org/) · [Rust](https://www.rust-lang.org/) · [C](https://en.wikipedia.org/wiki/C_%28programming_language%29) · [FastAPI](https://fastapi.tiangolo.com/) · [React](https://react.dev/) · Linux
+[Python](https://www.python.org/) · [FastAPI](https://fastapi.tiangolo.com/) · [React](https://react.dev/) · Linux
 
 ### Cloud
 
@@ -83,12 +79,6 @@ Each scenario documents:
 
 ## 📚 Currently Learning
 
-* [Detection Engineering](#detection-engineering)
-* [Threat Hunting](#threat-hunting)
-* [Windows Internals](#windows-internals)
-* [Active Directory Security](#active-directory-security)
-* [Adversary Simulation](#adversary-simulation)
-* [AI Security](#ai-security)
 * [Rust Systems Programming](#rust-systems-programming)
 
 ---
@@ -110,11 +100,3 @@ Automating alert enrichment, investigation, triage, and response workflows.
 ### AI Security
 
 Building intelligent security systems that apply AI to detection, investigation, threat analysis, and security operations.
-
----
-
-## 📫 Connect
-
-* 💼 [LinkedIn](https://linkedin.com/in/paschal-emechebe)
-* 📧 [Email](mailto:pasckene@gmail.com)
-* 🐙 [GitHub](https://github.com/pasckene)
