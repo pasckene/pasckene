@@ -1,6 +1,6 @@
 # Hi, I'm Paschal
 
-### [Security Engineer](#career-focus) · [Detection Engineering](#detection-engineering) · [SOC Automation](#soc-automation) · [AI Security](#ai-security)
+### [Security Engineer](#career-focus) · [Detection Engineer](#detection-engineering) · [SOC Automation](#soc-automation) · [AI Security](#ai-security)
 
 I build security systems that **detect, investigate, automate, and respond to threats.**
 
