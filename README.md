@@ -1,102 +1,198 @@
 # Hi, I'm Paschal
 
-### [Security Engineer](#career-focus) · [Detection Engineer](#detection-engineering) · [SOC Automation](#soc-automation) · [AI Security](#ai-security)
+### Security Engineer | Detection Engineering | SOC Automation | AI Security
 
-I build security systems that **detect, investigate, automate, and respond to threats.**
+I build practical cybersecurity systems focused on **threat detection, security operations, adversary simulation, and AI-powered security automation**.
 
-My focus is on:
+My work combines hands-on security engineering, Windows internals, endpoint telemetry, detection logic, and Python and PowerShell automation to understand how attacks work, identify malicious behavior, and turn security data into actionable intelligence.
 
-* 🦀 [Security Engineering](#security-engineering)
-* 🎯 [Detection Engineering](#detection-engineering)
-* 🔎 [Threat Hunting](#threat-hunting)
-* 🤖 [SOC Automation](#soc-automation)
-* 🧠 [AI Security Engineering](#ai-security)
----
+I am particularly interested in building security tools and products that help organizations detect threats faster, investigate incidents more effectively, and improve their security operations.
 
-## Featured Projects
-
-### [🛡️ RedShield AI SOC Platform](#redshield-ai-soc-platform)
-
-AI-powered security operations platform designed to ingest security telemetry, prioritize alerts, map activity to MITRE ATT&CK, and assist analysts with investigation and response.
-
-**Stack:** Python · FastAPI · React  · MITRE ATT&CK ·
-
-→ **[View Project](https://github.com/pasckene/redshield)**
+**My goal:** to engineer security solutions that solve real-world problems.
 
 ---
 
-### [🎯 Detection Engineering Lab](#detection-engineering-lab)
+## What I Build
 
-A practical detection-engineering environment built around Windows, Linux, Active Directory and attacker simulations.
-
-Includes:
-
-* Windows telemetry
-* Linux telemetry
-* MITRE ATT&CK techniques
-* Detection logic
-* Threat hunting
-* Attack simulation
-* Investigation workflows
-
-**Tools:** Wazuh · PowerShell · Sysmon · Python · SPL
-
-→ **[View Project](https://github.com/pasckene/Multi-Stage-Cyber-Attack-Detection-Using-Wazuh-SIEM-and-Sysmon)**
+-  **Detection Engineering & Threat Hunting** — Sysmon telemetry, Windows Event Logs, Sigma rules, Splunk SPL, Wazuh rules, behavioral detection, event correlation, and MITRE ATT&CK mapping.
+-  **SOC Operations & Incident Response** — Alert triage, investigation workflows, log analysis, process investigation, incident scoping, and response recommendations.
+-  **Malware Analysis & Reverse Engineering** — Windows internals, process behavior, executable analysis, static and dynamic analysis, persistence investigation, and malware behavior profiling in controlled labs.
+-  **Digital Forensics & Incident Response (DFIR)** — Endpoint evidence collection, timeline reconstruction, process analysis, file-system artifacts, and incident investigation.
+-  **Active Directory & Identity Security** — Active Directory Domain Services, Group Policy, role-based access control, least privilege, identity lifecycle management, and privileged access reviews.
+-  **AI Security & SOC Automation** — AI-assisted alert prioritization, security event enrichment, investigation assistance, MITRE ATT&CK classification, and automated response recommendations.
+-  **Cloud Security Engineering** — AWS security labs, cloud logging, identity and access management, security monitoring, and cloud-based security architecture.
 
 ---
 
-### [⚔️ Windows Attack Simulation Lab](#windows-attack-simulation-lab)
+## Technical Stack
 
-A controlled lab demonstrating attacker behavior from Kali against Windows and Active Directory infrastructure.
+**Languages & Scripting**
 
-Each scenario documents:
+Python · PowerShell · C++ · SQL
 
-**Attack → Telemetry → Detection → Investigation → MITRE ATT&CK → Response**
+**Security Monitoring & SIEM**
 
-→ **[View Project](https://github.com/pasckene)**
+Wazuh · Splunk Enterprise · Sysmon · Windows Event Logs · Sigma · MITRE ATT&CK
+
+**Windows Security & Internals**
+
+Active Directory · Windows Server · Group Policy · Process Investigation · Autoruns · Process Monitor · System Informer
+
+**Network Security**
+
+Wireshark · TCP/IP · Network Traffic Analysis · Suricata · Zeek
+
+**Malware Analysis & DFIR**
+
+Static Analysis · Dynamic Analysis · Reverse Engineering Fundamentals · Endpoint Telemetry · Incident Investigation
+
+**Backend & Security Automation**
+
+Python · FastAPI · REST APIs · Webhooks · Log Pipelines · Event Processing · PowerShell Automation
+
+**AI & Security Systems**
+
+LLM Integration · AI-Assisted Triage · Threat Intelligence Enrichment · Security Workflow Automation · AI SOC Architecture
+
+**Cloud & Infrastructure**
+
+AWS EC2 · Linux · Windows Server · Docker Fundamentals · Git · GitHub Actions
+
 
 ---
 
-## Technologies
+## Featured Security Engineering Projects
 
-### Security
+### 1. RedShield AI SOC Platform
 
-[Wireshark](https://www.wireshark.org/) . [Wazuh](https://wazuh.com/) · [Suricata](https://suricata.io/) ·  [Splunk](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/WhatsInThisManual)  · [MITRE ATT&CK](https://attack.mitre.org/)
+**AI-Assisted Security Operations & Threat Detection**
 
-### Detection & SIEM
+An evolving security platform designed to combine security telemetry, alert enrichment, risk prioritization, and AI-assisted investigation into a unified workflow.
 
-[SPL](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/WhatsInThisManual) · [Sigma](https://sigmahq.io/) · [Python](https://www.python.org/) · [PowerShell](https://learn.microsoft.com/en-us/powershell/)
+**Planned and implemented capabilities, documented according to project status:**
 
-### Engineering
+- Ingest and process security telemetry.
+- Enrich alerts with contextual information.
+- Prioritize alerts using risk-scoring logic.
+- Map suspicious activity to MITRE ATT&CK techniques.
+- Generate investigation guidance and response recommendations.
+- Present alerts and investigation context through a security dashboard.
+- Integrate log pipelines and backend APIs.
 
-[Python](https://www.python.org/) · [FastAPI](https://fastapi.tiangolo.com/) · [React](https://react.dev/) · Linux
+**Technology direction:** Python · FastAPI · Next.js · Supabase · Wazuh telemetry · LLM integration
 
-### Cloud
+**Focus areas:** Security automation · Detection engineering · AI security · Security product development
 
-[AWS](https://aws.amazon.com/) · IAM · EC2 · Cloud Security
+[Explore my repositories](https://github.com/pasckene?tab=repositories)
 
 ---
 
-## 📚 Currently Learning
+### 2. Active Directory IAM & Least-Privilege Lab
 
-* [Rust Systems Programming](#rust-systems-programming)
+**Enterprise Identity and Access Management Engineering**
+
+A hands-on Active Directory environment focused on implementing and validating enterprise identity controls.
+
+- Design an organizational unit hierarchy.
+- Organize users and security groups.
+- Implement role-based access control using AGDLP principles.
+- Configure resource permissions using security groups.
+- Validate share and NTFS access.
+- Apply and verify Group Policy settings.
+- Review privileged access and account lifecycle changes.
+- Document configuration decisions and access-validation evidence.
+
+**Technology:** Windows Server · Active Directory Domain Services · PowerShell · Group Policy · NTFS · SMB
+
+**Focus areas:** IAM engineering · Enterprise security · Least privilege · Access governance
 
 ---
 
-## Career Focus
+### 3. Windows Threat Detection & Behavioral Correlation
 
-### Security Engineering
+**Sysmon · Wazuh · PowerShell · Windows Internals**
 
-Building security infrastructure, tooling, telemetry pipelines, and automated security systems.
+A detection engineering lab for investigating suspicious Windows behavior and correlating multiple events into meaningful security findings.
 
-### Detection Engineering
+- Collect and inspect Sysmon telemetry.
+- Analyze process creation and parent-child relationships.
+- Correlate events using Process GUIDs, process IDs, and timestamps.
+- Investigate network connections and file creation.
+- Examine scheduled task activity and potential persistence.
+- Develop Wazuh rules for suspicious behavior.
+- Validate detections using controlled security simulations.
+- Map findings to relevant MITRE ATT&CK techniques.
 
-Designing detections from attacker behavior, telemetry, and MITRE ATT&CK techniques.
+**Technology:** Sysmon · Wazuh · PowerShell · Windows Event Logs · MITRE ATT&CK
 
-### SOC Automation
+**Focus areas:** Behavioral detection · Threat hunting · Event correlation · Endpoint investigation
 
-Automating alert enrichment, investigation, triage, and response workflows.
+---
 
-### AI Security
+### 4. Splunk Detection Engineering & Threat Hunting
 
-Building intelligent security systems that apply AI to detection, investigation, threat analysis, and security operations.
+**Security Analytics · SPL · Multi-Event Correlation**
+
+A SIEM project focused on transforming raw security events into actionable detections and investigation workflows.
+
+- Search and analyze Windows security events.
+- Investigate authentication failures and successful logons.
+- Analyze process creation and permission-related activity.
+- Build SPL queries using filtering, aggregation, and statistical functions.
+- Correlate related events to reconstruct suspicious activity.
+- Develop detection logic and document its limitations.
+- Evaluate false positives and opportunities for detection improvement.
+
+**Technology:** Splunk Enterprise · SPL · Windows Event Logs · Sysmon · MITRE ATT&CK
+
+**Focus areas:** SIEM engineering · Alert investigation · Threat hunting · Detection validation
+
+---
+
+### 5. Endpoint Investigation & Malware Behavior Lab
+
+**Windows Internals · Process Analysis · DFIR Fundamentals**
+
+A controlled laboratory for studying executable behavior and learning how defenders investigate suspicious endpoint activity.
+
+- Inspect running processes and their parent-child relationships.
+- Examine executable metadata and file-system changes.
+- Investigate process network connections.
+- Inspect persistence mechanisms such as scheduled tasks and startup entries.
+- Correlate observations across Sysmon, Process Monitor, Autoruns, and System Informer.
+- Build event timelines and document investigative findings.
+- Separate observed evidence from hypotheses and conclusions.
+
+**Technology:** Windows · Sysmon · Process Monitor · Autoruns · System Informer · PowerShell · C/C++
+
+**Focus areas:** Malware analysis fundamentals · DFIR · Reverse engineering preparation · Endpoint forensics
+
+---
+
+## What I Can Bring to a Team
+
+I am building practical capability in:
+
+- Security monitoring and alert triage.
+- SIEM queries and detection development.
+- Windows and Linux endpoint investigation.
+- Identity and access management.
+- PowerShell and Python security automation.
+- Security lab engineering and technical documentation.
+- AI-assisted security workflow design.
+
+I am especially interested in opportunities where I can contribute to security operations, detection engineering, endpoint investigations, and the development of security automation systems.
+
+---
+
+## Connect With Me
+
+-  **LinkedIn:** [Add your LinkedIn profile URL]
+-  **Email:** [pasckene@gmail.com]
+
+---
+
+## Building Security That Works
+
+I believe strong cybersecurity engineering comes from understanding attacker behavior, collecting reliable evidence, developing effective detections, and continuously validating defensive controls.
+
